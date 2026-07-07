@@ -1,0 +1,15 @@
+{
+    "servers": {
+        "economic-calendar": {
+            "type": "stdio",
+            "command": "uv",
+            "args": [
+                "run",
+                "--directory",
+                "f:\\PROJECT\\PYTHON\\collect-news-data",
+                "econ_calendar_mcp.py"
+            ],
+            "description": "TradingEconomics economic calendar data — NFP, CPI, PMI, central bank rates, etc."
+        }
+    }
+}

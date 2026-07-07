@@ -1,0 +1,57 @@
+﻿date,time,country_code,country,event,impact,impact_label,actual,forecast,previous,category
+2026-07-07,05:00 PM,US,United States,3-Year Note Auction,1,Medium,,,4.192%,3 year note yield
+2026-07-07,08:30 PM,US,United States,API Crude Oil Stock Change,1,Medium,,,-6.072M,api crude oil stock change
+2026-07-08,11:00 AM,US,United States,MBA 30-Year Mortgage Rate,1,Medium,,,6.57%,mortgage rate
+2026-07-08,11:00 AM,US,United States,MBA Mortgage Applications,1,Medium,,,0%,mortgage applications
+2026-07-08,11:00 AM,US,United States,MBA Mortgage Market Index,1,Medium,,,272.2,mba mortgage market index
+2026-07-08,11:00 AM,US,United States,MBA Mortgage Refinance Index,1,Medium,,,828.7,mba mortgage refinance index
+2026-07-08,11:00 AM,US,United States,MBA Purchase Index,1,Medium,,,170.6,mba purchase index
+2026-07-08,01:00 PM,US,United States,Used Car Prices MoM,1,Medium,,,0.3%,used car prices mom
+2026-07-08,01:00 PM,US,United States,Used Car Prices YoY,1,Medium,,,3.6%,used car prices yoy
+2026-07-08,02:00 PM,US,United States,Wholesale Inventories MoM,1,Medium,,0.3%,0.6%,wholesale inventories
+2026-07-08,02:30 PM,US,United States,EIA Crude Oil Stocks Change,1,Medium,,,-3.775M,crude oil stocks change
+2026-07-08,02:30 PM,US,United States,EIA Gasoline Stocks Change,1,Medium,,,-2.333M,gasoline stocks change
+2026-07-08,02:30 PM,US,United States,EIA Crude Oil Imports Change,1,Medium,,,0.37M,crude oil imports
+2026-07-08,02:30 PM,US,United States,EIA Cushing Crude Oil Stocks Change,1,Medium,,,0.709M,cushing crude oil stocks
+2026-07-08,02:30 PM,US,United States,EIA Distillate Fuel Production Change,1,Medium,,,-0.042M,distillate fuel production
+2026-07-08,02:30 PM,US,United States,EIA Distillate Stocks Change,1,Medium,,,2.483M,distillate stocks
+2026-07-08,02:30 PM,US,United States,EIA Gasoline Production Change,1,Medium,,,0.481M,gasoline production
+2026-07-08,02:30 PM,US,United States,EIA Heating Oil Stocks Change,1,Medium,,,-0.31M,heating oil stocks
+2026-07-08,02:30 PM,US,United States,EIA Refinery Crude Runs Change,1,Medium,,,0.085M,refinery crude runs
+2026-07-08,03:30 PM,US,United States,17-Week Bill Auction,1,Medium,,,3.795%,17 week bill yield
+2026-07-08,05:00 PM,US,United States,10-Year Note Auction,1,Medium,,,4.538%,government bond 10y
+2026-07-08,06:00 PM,US,United States,FOMC Minutes,1,Medium,,,,interest rate
+2026-07-08,07:00 PM,US,United States,Consumer Credit Change,1,Medium,,$17.5B,$20.73B,consumer credit
+2026-07-09,12:30 PM,US,United States,Initial Jobless Claims,1,Medium,,219K,215K,initial jobless claims
+2026-07-09,12:30 PM,US,United States,Continuing Jobless Claims,1,Medium,,,1814K,continuing jobless claims
+2026-07-09,12:30 PM,US,United States,Jobless Claims 4-week Average,1,Medium,,,222K,jobless claims 4-week average
+2026-07-09,01:00 PM,US,United States,Fed Williams Speech,1,Medium,,,,interest rate
+2026-07-09,01:20 PM,US,United States,NY Fed Bill Purchases 1 to 4 months,1,Medium,,$6.637 billion,,calendar
+2026-07-09,02:00 PM,US,United States,Existing Home Sales,1,Medium,,4.20M,4.17M,existing home sales
+2026-07-09,02:00 PM,US,United States,Existing Home Sales MoM,1,Medium,,,3.2%,existing home sales mom
+2026-07-09,02:30 PM,US,United States,EIA Natural Gas Stocks Change,1,Medium,,,87Bcf,natural gas stocks change
+2026-07-09,03:30 PM,US,United States,4-Week Bill Auction,1,Medium,,,3.605%,4 week bill yield
+2026-07-09,03:30 PM,US,United States,8-Week Bill Auction,1,Medium,,,3.650%,8 week bill yield
+2026-07-09,04:00 PM,US,United States,15-Year Mortgage Rate,1,Medium,,,5.79%,15 year mortgage rate
+2026-07-09,04:00 PM,US,United States,30-Year Mortgage Rate,1,Medium,,,6.43%,30 year mortgage rate
+2026-07-09,05:00 PM,US,United States,30-Year Bond Auction,1,Medium,,,5.020%,30 year bond yield
+2026-07-09,05:30 PM,US,United States,Fed Logan Speech,1,Medium,,,,interest rate
+2026-07-09,08:30 PM,US,United States,Fed Balance Sheet,1,Medium,,,$6.725T,central bank balance sheet
+2026-07-10,04:00 PM,US,United States,WASDE Report,2,High,,,,calendar
+2026-07-10,05:00 PM,US,United States,Baker Hughes Oil Rig Count,2,High,,,445,crude oil rigs
+2026-07-10,05:00 PM,US,United States,Baker Hughes Total Rigs Count,2,High,,,580,total rigs
+2026-07-13,03:30 PM,US,United States,3-Month Bill Auction,2,High,,,,3 month bill yield
+2026-07-13,03:30 PM,US,United States,6-Month Bill Auction,2,High,,,,6 month bill yield
+2026-07-13,06:00 PM,US,United States,Monthly Budget Statement,2,High,,,$293B,government budget value
+2026-07-14,10:00 AM,US,United States,NFIB Business Optimism Index,2,High,,,95.3,nfib business optimism index
+2026-07-14,12:15 PM,US,United States,ADP Employment Change Weekly,2,High,,,,adp employment change weekly
+2026-07-14,12:30 PM,US,United States,Core Inflation Rate MoM,2,High,,,0.2%,core inflation rate mom
+2026-07-14,12:30 PM,US,United States,Core Inflation Rate YoY,2,High,,,2.9%,core inflation rate
+2026-07-14,12:30 PM,US,United States,Inflation Rate MoM,2,High,,,0.5%,inflation rate mom
+2026-07-14,12:30 PM,US,United States,Inflation Rate YoY,2,High,,,4.2%,inflation rate
+2026-07-14,12:30 PM,US,United States,CPI,2,High,,,335.12,consumer price index cpi
+2026-07-14,12:30 PM,US,United States,CPI s.a,2,High,,,333.979,cpi seasonally adjusted
+2026-07-14,12:55 PM,US,United States,Redbook YoY,2,High,,,,redbook index
+2026-07-14,02:00 PM,US,United States,Fed Chair Warsh Testimony,2,High,,,,interest rate
+2026-07-14,03:30 PM,US,United States,6-Week Bill Auction,2,High,,,,calendar
+2026-07-14,05:00 PM,US,United States,Fed Goolsbee Speech,2,High,,,,interest rate
